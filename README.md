@@ -1,5 +1,7 @@
 # Social-media-sentiment-predictor
 
-This tool could be used by marketing teams to quickly test a draft post and see whether its tone would resonate with European audiences before publishing.
+Data Science Bootcamp final project (first-place winner!). This tool was built to let marketing teams test engagement levels on content before publishing across various geographic regions.
+
+Variables used to predict engagement include engagement (likes and comments), caption, hashtags, and emojis
 
 https://machine-not-learning-nyu.github.io/social-media-engagement/
